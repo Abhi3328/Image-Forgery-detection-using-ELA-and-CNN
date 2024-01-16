@@ -1,0 +1,10 @@
+keras
+matplotlib
+numpy
+pillow
+pyqt5
+seaborn
+sklearn
+tensorflow
+os 
+cv2
