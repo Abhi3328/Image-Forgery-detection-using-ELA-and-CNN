@@ -40,6 +40,6 @@ Methodology:
 •	Visualize feature maps and activations to understand what the model learns.
 •	Use visualization tools to identify areas of interest in manipulated images.
 
-![image](https://github.com/Abhi3328/Image-Forgery-detection-using-ELA-and-CNN/assets/118369122/093830b0-bb7a-44d2-8c0a-3f60550367a7)
+![image](https://github.com/Abhi3328/Image-Forgery-detection-using-ELA-and-CNN/assets/118369122/96457193-da30-4be7-be7b-6c1ee454373d)
 
 
